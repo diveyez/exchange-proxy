@@ -18,5 +18,5 @@ require (
 	github.com/stretchr/testify v1.7.0 // indirect
 	github.com/valyala/fasthttp v1.29.0
 	go.uber.org/ratelimit v0.2.0
-	golang.org/x/sys v0.0.0-20211007075335-d3039528d8ac // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
